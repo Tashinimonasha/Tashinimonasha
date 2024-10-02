@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm TASHINI MONASHA</h1>
+ <h1 align="center">Hi 👋, I'm Tashini Monasha</h1>
 <h3 align="center">A Software Engineering student passionate about web development, mobile apps, and machine learning. I enjoy building practical tech solutions and exploring new innovations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashinimonasha&label=Profile%20views&color=0e75b6&style=flat" alt="tashinimonasha" /> </p>
