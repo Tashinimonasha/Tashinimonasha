@@ -1,9 +1,9 @@
  
 <h1 align="center">Hi 👋, I'm Tashini Monasha</h1>
-<center></center><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif"></center><br><br><br>
+<center></center><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif"></center><br>
 <h3 align="center">A Software Engineering student passionate about web development, mobile apps, and machine learning. I enjoy building practical tech solutions and exploring new innovations.</h3> 
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashinimonasha&label=Profile%20views&color=0e75b6&style=flat" alt="tashinimonasha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tashinimonasha&label=Profile%20views&color=0e75b6&style=flat" alt="tashinimonasha" /> </p><br>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tashinimonasha" alt="tashinimonasha" /></a> </p>
 
