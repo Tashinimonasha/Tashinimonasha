@@ -1,7 +1,8 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+ 
 <h1 align="center">Hi 👋, I'm Tashini Monasha</h1>
-<h3 align="center">A Software Engineering student passionate about web development, mobile apps, and machine learning. I enjoy building practical tech solutions and exploring new innovations.</h3><br><br>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif"><br>
+<center></center><img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/17/a3/ef/17a3effbfcfc3e2fc1f23e512cff50bb.gif"></center><br><br>
+<h3 align="center">A Software Engineering student passionate about web development, mobile apps, and machine learning. I enjoy building practical tech solutions and exploring new innovations.</h3>
+ 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tashinimonasha&label=Profile%20views&color=0e75b6&style=flat" alt="tashinimonasha" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tashinimonasha" alt="tashinimonasha" /></a> </p>
